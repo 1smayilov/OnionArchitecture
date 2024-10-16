@@ -1,0 +1,12 @@
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Application\bin\Debug\net8.0\Application.dll
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Application\obj\Debug\net8.0\Application.dll
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache

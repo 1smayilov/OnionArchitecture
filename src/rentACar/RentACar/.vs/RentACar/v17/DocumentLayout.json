@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\rentACar\\RentACar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\projects .net\\recaponion\\src\\rentacar\\rentacar\\application\\services\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|solutionrelative:application\\services\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Services\\Repositories\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Repositories\\IBrandRepository.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Services\\Repositories\\IBrandRepository.cs",
+              "RelativeToolTip": "Application\\Services\\Repositories\\IBrandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:15:12.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

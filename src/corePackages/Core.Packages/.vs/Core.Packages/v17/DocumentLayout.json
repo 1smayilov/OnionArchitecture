@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\etimad\\desktop\\projects .net\\recaponion\\src\\corepackages\\core.packages\\core.persistence\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\core.persistence\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\core.persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|c:\\users\\etimad\\desktop\\projects .net\\recaponion\\src\\corepackages\\core.packages\\core.persistence\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\core.persistence\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C5D1E3C-AC4F-4E17-8058-40CD914B4072}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Filter.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Filter.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Dynamic\\Filter.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\Filter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:32:00.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IQueryablePaginateExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:03:19.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paginate.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\Paginate.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\Paginate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:16:43.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IQuery.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IQuery.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IQuery.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:06:36.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:02:33.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "ViewState": "AQIAACkAAAAQAAAAAAAwwBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:27:58.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\Entity.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Projects .NET\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\Entity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:19:01.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

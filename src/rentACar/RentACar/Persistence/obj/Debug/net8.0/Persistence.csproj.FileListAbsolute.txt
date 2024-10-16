@@ -1,0 +1,11 @@
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\Etimad\Desktop\Projects .NET\ReCapOnion\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\ref\Persistence.dll
