@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Core.Persistence.Repositories;
 
-public class Entity<TId> // TId - sinfin fərqli tiplər alması üçündür
+public class Entity<TId>:IEntityTimestamps // TId - sinfin fərqli tiplər alması üçündür
 {
     public TId Id { get; set; }
     public DateTime CreatedDate { get; set; }

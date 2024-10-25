@@ -18,6 +18,8 @@ public static class ApplicationServiceRegistration
             configuration.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()); // Get bütün Assembly lərə bax ordakı bütün command qerylərə bax, onların handlerini tap bir-biri ilə əlaqələndir nə vaxt Send etsəm get handleri işlət
         });
 
+        services.AddAutoMapper(Assembly.GetExecutingAssembly()); // AutoMapper
+
         return services;
     }
 }

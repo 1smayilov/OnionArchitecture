@@ -32,7 +32,7 @@ public static class IQueryablePaginateExtensions
         return list;
     }
 
-    public static async Task<Paginate<T>> ToPaginateAsync<T>(
+    public static async Task<Paginate<T>> ToPaginate<T>(
         this IQueryable<T> source,
         int index,
         int size,

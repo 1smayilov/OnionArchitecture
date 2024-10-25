@@ -21,5 +21,7 @@ public class Brand : Entity<Guid>
         Id = id;
         Name = name;
     }
+
+    //var brand = new Brand(Guid.NewGuid(), "Nike"); // Yeni bir ID yaradır və markanı "Nike" olaraq təyin edir
+
 }
-  

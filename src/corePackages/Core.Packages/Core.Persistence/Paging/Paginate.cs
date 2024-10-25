@@ -1,6 +1,6 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
-using System.Linq;
+using System.Linq; 
 using System.Text;
 using System.Threading.Tasks;
 
@@ -19,6 +19,6 @@ public class Paginate<T>
     public int Pages { get; set; } // Neçə səhifə var
     public IList<T> Items { get; set; } // Datamız nədir
     public bool HasPrevious => Index > 0; // Əvvəlki səhifə var?
-    public bool HasNext => Index+1 < Pages; // Əvvəlki səhifə var?
+    public bool HasNext => Index+1 < Pages; // Sonrakı səhifə var?
 
 }

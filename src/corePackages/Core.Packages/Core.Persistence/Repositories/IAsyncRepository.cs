@@ -1,4 +1,5 @@
-﻿using Core.Persistence.Paging;
+﻿using Core.Persistence.Dynamic;
+using Core.Persistence.Paging;
 using Microsoft.EntityFrameworkCore.Query;
 using System;
 using System.Collections.Generic;
@@ -9,11 +10,11 @@ using System.Threading.Tasks;
 
 namespace Core.Persistence.Repositories;
 
-public interface IAsyncRepository<TEntity, TEntityId> : IQueryable<TEntity>
+public interface IAsyncRepository<TEntity, TEntityId> : IQuery<TEntity>
     where TEntity : Entity<TEntityId>
 {
     Task<TEntity> GetAsync(
-        Expression<Func<TEntity, bool>> predicate, // car => car.Brand == "Ford"
+        Expression<Func<TEntity, bool>> predicate, // car => car.Brand == "Ford" 
         Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null, // Join atabilməmiz üçün, Brandin içində CarName
         bool withDeleted = false, // Silinmiş avtomobilləri daxil etmir
         bool enableTracking = true,
