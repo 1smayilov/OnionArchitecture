@@ -11,16 +11,21 @@ namespace Persistence.EntityConfigurations
 {
     public class BrandConfiguration : IEntityTypeConfiguration<Brand>
     {
-        public void Configure(EntityTypeBuilder<Brand> builder)
+        public void Configure(EntityTypeBuilder<Brand> builder) 
         {
             builder.ToTable("Brands").HasKey(b => b.Id); // Hansı table - a qarşılıqdır
             builder.Property(b => b.Id).HasColumnName("Id").IsRequired();
             builder.Property(b => b.Name).HasColumnName("Name").IsRequired();
-            builder.Property(b => b.CreatedDate).HasColumnName("CreatedDate");
+            builder.Property(b => b.CreatedDate).HasColumnName("CreatedDate").IsRequired();
             builder.Property(b => b.UpdatedDate).HasColumnName("UpdatedDate");
             builder.Property(b => b.DeletedDate).HasColumnName("DeletedDate");
+
+            builder.HasIndex(indexExpression: b => b.Name, name: "UK_Brands_Name").IsUnique();
+
+            builder.HasMany(b => b.Models); // Bir brandin 1 dən çox modeli ola bilər
 
             builder.HasQueryFilter(b=>!b.DeletedDate.HasValue); // SoftDelete
         }
     }
 }
+ 

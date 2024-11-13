@@ -16,7 +16,7 @@ public static class IQueryableDynamicFilterExtensions
     {
         { "eq", "=" },
         { "neq", "!=" },
-        { "lt", "<" },
+        { "lt", "<" }, 
         { "lte", "<=" },
         { "gt", ">" },
         { "gte", ">=" },

@@ -14,3 +14,5 @@ C:\Users\Etimad\Desktop\ReCapOnion\src\corePackages\Core.Packages\Core.Applicati
 C:\Users\Etimad\Desktop\ReCapOnion\src\corePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.Persistence.pdb
 C:\Users\Etimad\Desktop\ReCapOnion\src\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.Application.csproj.AssemblyReference.cache
 C:\Users\Etimad\Desktop\ReCapOnion\src\corePackages\Core.Packages\Core.Application\obj\Debug\net8.0\Core.App.01B2A2D7.Up2Date
+C:\Users\Etimad\Desktop\ReCapOnion\src\corePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
+C:\Users\Etimad\Desktop\ReCapOnion\src\corePackages\Core.Packages\Core.Application\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb

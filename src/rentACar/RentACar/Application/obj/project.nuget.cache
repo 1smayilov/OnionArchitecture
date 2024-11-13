@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "XWebRQjJrqImo/g7AAgRljRxHMD52hCL1Z8NT081PZY1L8QN1ea/fQp90Xx8J4zHoGGvjTq0g6Zhrfcti49ihQ==",
+  "dgSpecHash": "U1qzYJBK/HPnpIac3Q2f7Ql+DSELiwr0UQlu1dbT/a/sFFh4QdPliuJMsXZZzKie5GL1ijzvCzPmx+qwtlTFPQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Etimad\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Etimad\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\Etimad\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\Etimad\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.10.0\\fluentvalidation.dependencyinjectionextensions.11.10.0.nupkg.sha512",
     "C:\\Users\\Etimad\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\Etimad\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Etimad\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

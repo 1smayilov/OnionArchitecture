@@ -31,3 +31,5 @@ C:\Users\Etimad\Desktop\ReCapOnion\src\rentACar\RentACar\Persistence\obj\Debug\n
 C:\Users\Etimad\Desktop\ReCapOnion\src\rentACar\RentACar\Persistence\obj\Debug\net8.0\ref\Persistence.dll
 C:\Users\Etimad\Desktop\ReCapOnion\src\rentACar\RentACar\Persistence\bin\Debug\net8.0\Core.Application.dll
 C:\Users\Etimad\Desktop\ReCapOnion\src\rentACar\RentACar\Persistence\bin\Debug\net8.0\Core.Application.pdb
+C:\Users\Etimad\Desktop\ReCapOnion\src\rentACar\RentACar\Persistence\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
+C:\Users\Etimad\Desktop\ReCapOnion\src\rentACar\RentACar\Persistence\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb

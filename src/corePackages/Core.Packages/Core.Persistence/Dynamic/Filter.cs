@@ -13,7 +13,7 @@ public class Filter
     public string Operator { get; set; } // Qiyməti > 300 And Qiyməti < 500 (> , <) 
     public string? Logic { get; set; } // Qiyməti > 300 And Qiyməti < 500 (Buradakı And)
 
-    public IEnumerable<Filter> Filters { get; set; } 
+    public IEnumerable<Filter>? Filters { get; set; } 
 
     public Filter()
     {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0lrbf2uhM2U96J9259EpwLXn2066dUJCEs+0m8GOoFi9Xy6kcFL3kQ8joW8u8Gf+nC6fX3oa8PFcVnjYaPKnEw==",
+  "dgSpecHash": "eQLN5abpSXkG6gW0Gzq0tNhjPdWjDS7EGLqDsUV2SMg2o/PznjFTJFxakevEmTGR86ddBeHnco7CJO0nEk44WQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,8 @@
     "C:\\Users\\Etimad\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Etimad\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Etimad\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\Etimad\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512",
+    "C:\\Users\\Etimad\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.10.0\\fluentvalidation.dependencyinjectionextensions.11.10.0.nupkg.sha512",
     "C:\\Users\\Etimad\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\Etimad\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Etimad\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

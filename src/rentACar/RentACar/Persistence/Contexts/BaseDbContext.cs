@@ -14,13 +14,12 @@ namespace Persistence.Contexts
     {
         protected IConfiguration Configuration { get; set; }
         public DbSet<Brand> Brands { get; set; }
-        
-        public BaseDbContext(DbContextOptions dbContextOptions, IConfiguration configuration) : base(dbContextOptions)
+        public BaseDbContext(DbContextOptions dbContextOptions,  IConfiguration configuration) : base(dbContextOptions)
         {
             Configuration = configuration;
             Database.EnsureCreated(); // Database yarandı?
         }
-
+         
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly()); // Entity Framework Core-da model konfiqurasiyalarını avtomatik olaraq tətbiq etmək.

@@ -7,13 +7,16 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities;
 
-public class Brand : Entity<Guid>
+public class Brand : Entity<Guid> // 1 Brand - in 1 dən çox Modeli ola bilər
 { 
     public string Name { get; set; }
+    public virtual ICollection<Model> Models { get; set; } // Bu markaya aid olan bütün modellərin siyahısı.
 
+    // Default konstruktor: Yeni bir marka yaradarkən, modellər siyahısını boş bir `HashSet` olaraq təyin edir. 
+    // HashSet - 1 modeldən 2 dənə ola bilməz
     public Brand()
     {
-           
+        Models = new HashSet<Model>();
     }
 
     public Brand(Guid id, string name)
@@ -22,6 +25,5 @@ public class Brand : Entity<Guid>
         Name = name;
     }
 
-    //var brand = new Brand(Guid.NewGuid(), "Nike"); // Yeni bir ID yaradır və markanı "Nike" olaraq təyin edir
 
 }
