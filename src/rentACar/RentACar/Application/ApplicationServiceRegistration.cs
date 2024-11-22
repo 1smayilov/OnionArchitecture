@@ -1,6 +1,10 @@
-﻿using Core.Application.Pipelines.Transaction;
+﻿using Core.Application.Pipelines.Caching;
+using Core.Application.Pipelines.Logging;
+using Core.Application.Pipelines.Transaction;
 using Core.Application.Pipelines.Validation;
 using Core.Application.Rules;
+using Core.CrossCuttingConcerns.Serilog;
+using Core.CrossCuttingConcerns.Serilog.Loggers;
 using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -13,9 +17,9 @@ using System.Threading.Tasks;
 using System.Transactions;
 
 namespace Application;
-
+ 
 public static class ApplicationServiceRegistration
-{
+{ 
     public static IServiceCollection AddApplicationServices(this IServiceCollection services)
     {
         services.AddMediatR(configuration =>
@@ -23,7 +27,12 @@ public static class ApplicationServiceRegistration
             configuration.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()); // Get bütün Assembly lərə bax ordakı bütün command qerylərə bax, onların handlerini tap bir-biri ilə əlaqələndir nə vaxt Send etsəm get handleri işlət
             configuration.AddOpenBehavior(typeof(RequestValidationBehavior<,>)); 
             configuration.AddOpenBehavior(typeof(TransactionScopeBehavior<,>)); 
+            configuration.AddOpenBehavior(typeof(CachingBehavior<,>)); 
+            configuration.AddOpenBehavior(typeof(CacheRemovingBehavior<,>));
+            configuration.AddOpenBehavior(typeof(LoggingBehavior<,>));
         });
+
+        services.AddSingleton<LoggerServiceBase, MsSqlLogger>();
 
         services.AddAutoMapper(Assembly.GetExecutingAssembly()); // AutoMapper
 

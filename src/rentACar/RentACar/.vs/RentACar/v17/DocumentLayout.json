@@ -3,65 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\application\\features\\brands\\commands\\create\\createbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\commands\\create\\createbrandcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\recaponion\\src\\rentacar\\rentacar\\application\\features\\users\\profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|solutionrelative:application\\features\\users\\profiles\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/RentACarDb/True/SqlTable/dbo.Brands.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\recaponion\\src\\rentacar\\rentacar\\application\\features\\users\\commands\\create\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\create\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EBEB105-BAAE-4E09-B9F7-768F02FAD52E}|WebApi\\WebApi.csproj|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EBEB105-BAAE-4E09-B9F7-768F02FAD52E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\recaponion\\src\\rentacar\\rentacar\\application\\features\\users\\commands\\create\\createduserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|solutionrelative:application\\features\\users\\commands\\create\\createduserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\recaponion\\src\\rentacar\\rentacar\\application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|solutionrelative:application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\recaponion\\src\\rentacar\\rentacar\\application\\features\\auth\\constants\\authmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\constants\\authmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EBEB105-BAAE-4E09-B9F7-768F02FAD52E}|WebApi\\WebApi.csproj|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EBEB105-BAAE-4E09-B9F7-768F02FAD52E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\recaponion\\src\\rentacar\\rentacar\\application\\features\\users\\rules\\userbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|solutionrelative:application\\features\\users\\rules\\userbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EBEB105-BAAE-4E09-B9F7-768F02FAD52E}|WebApi\\WebApi.csproj|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\webapi\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EBEB105-BAAE-4E09-B9F7-768F02FAD52E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\modelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EBEB105-BAAE-4E09-B9F7-768F02FAD52E}|WebApi\\WebApi.csproj|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EBEB105-BAAE-4E09-B9F7-768F02FAD52E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\application\\features\\brands\\commands\\create\\createbrandcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\commands\\create\\createbrandcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ED7FCF5-A1C7-4DA3-8B51-BE574105880A}|Domain\\Domain.csproj|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2ED7FCF5-A1C7-4DA3-8B51-BE574105880A}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2ED7FCF5-A1C7-4DA3-8B51-BE574105880A}|Domain\\Domain.csproj|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\domain\\enums\\carstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2ED7FCF5-A1C7-4DA3-8B51-BE574105880A}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\carstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\application\\features\\brands\\commands\\create\\createdbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\commands\\create\\createdbrandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71085371-743D-45F4-B461-00E1D3449E29}|Persistence\\Persistence.csproj|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71085371-743D-45F4-B461-00E1D3449E29}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\application\\features\\brands\\rules\\brandbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\rules\\brandbusinessrules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\application\\features\\brands\\constants\\brandsmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|solutionrelative:application\\features\\brands\\constants\\brandsmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|c:\\users\\etimad\\desktop\\recaponion\\src\\rentacar\\rentacar\\application\\features\\users\\constants\\usersoperationclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5079258-D847-49A2-8CCF-25B52CA32A56}|Application\\Application.csproj|solutionrelative:application\\features\\users\\constants\\usersoperationclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,199 +42,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Brands [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_KD7J5GA/RentACarDb/True/SqlTable/dbo.Brands.sql",
-              "ToolTip": "dbo.Brands [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-07T05:30:17.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BrandsController.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\WebApi\\Controllers\\BrandsController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\BrandsController.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\WebApi\\Controllers\\BrandsController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\BrandsController.cs",
-              "ViewState": "AQIAAB0AAAAAoJmZmZnZvzUAAABgAAAA",
+              "DocumentIndex": 0,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Users\\Profiles\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Profiles\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Users\\Profiles\\MappingProfiles.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Profiles\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:41:18.221Z",
+              "WhenOpened": "2024-11-22T05:30:04.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\ApplicationServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Application\\ApplicationServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\ApplicationServiceRegistration.cs",
-              "RelativeToolTip": "Application\\ApplicationServiceRegistration.cs",
-              "ViewState": "AQIAABIAAAAAMzMzMzMLwBwAAAAAAAAA",
+              "Title": "AuthMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Auth\\Constants\\AuthMessages.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\Constants\\AuthMessages.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Auth\\Constants\\AuthMessages.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\Constants\\AuthMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T09:26:16.337Z",
+              "WhenOpened": "2024-11-22T05:27:26.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateBrandCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
-              "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommand.cs",
-              "ViewState": "AQIAAAoAAAAgMzMzMzMrwA4AAABLAAAA",
+              "DocumentIndex": 4,
+              "Title": "UserBusinessRules.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Users\\Rules\\UserBusinessRules.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Rules\\UserBusinessRules.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Users\\Rules\\UserBusinessRules.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Rules\\UserBusinessRules.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:52:27.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T13:50:44.371Z",
+              "WhenOpened": "2024-11-22T05:23:05.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ModelsController.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\WebApi\\Controllers\\ModelsController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\ModelsController.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\WebApi\\Controllers\\ModelsController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\ModelsController.cs",
-              "ViewState": "AQIAAAYAAACAZmZmZmYuwBcAAAAAAAAA",
+              "Title": "UsersOperationClaims.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Users\\Constants\\UsersOperationClaims.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Constants\\UsersOperationClaims.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Users\\Constants\\UsersOperationClaims.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Constants\\UsersOperationClaims.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:41:22.61Z",
+              "WhenOpened": "2024-11-22T05:19:10.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\WebApi\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\WebApi\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\BaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "CreatedUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Users\\Commands\\Create\\CreatedUserResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Create\\CreatedUserResponse.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Users\\Commands\\Create\\CreatedUserResponse.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\Create\\CreatedUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:39:17.224Z",
+              "WhenOpened": "2024-11-22T05:15:58.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "..\\..\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "..\\..\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\ExceptionMiddleware.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAkwCUAAAAuAAAA",
+              "DocumentIndex": 1,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Users\\Commands\\Create\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Users\\Commands\\Create\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Users\\Commands\\Create\\CreateUserCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Users\\Commands\\Create\\CreateUserCommand.cs",
+              "ViewState": "AQIAAC8AAAAAAgAAAAAAwEYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:54:40.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateBrandCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommandValidator.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommandValidator.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommandValidator.cs",
-              "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreateBrandCommandValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:03:45.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Domain",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
-              "RelativeToolTip": "Domain\\Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-06T13:20:58.407Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CarState.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Domain\\Enums\\CarState.cs",
-              "RelativeDocumentMoniker": "Domain\\Enums\\CarState.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Domain\\Enums\\CarState.cs",
-              "RelativeToolTip": "Domain\\Enums\\CarState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T11:19:33.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreatedBrandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreatedBrandResponse.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Commands\\Create\\CreatedBrandResponse.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Commands\\Create\\CreatedBrandResponse.cs",
-              "RelativeToolTip": "Application\\Features\\Brands\\Commands\\Create\\CreatedBrandResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T08:59:09.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PersistenceServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Persistence\\PersistenceServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Persistence\\PersistenceServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Persistence\\PersistenceServiceRegistration.cs",
-              "RelativeToolTip": "Persistence\\PersistenceServiceRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T13:52:54.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BrandBusinessRules.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Rules\\BrandBusinessRules.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Rules\\BrandBusinessRules.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Rules\\BrandBusinessRules.cs",
-              "RelativeToolTip": "Application\\Features\\Brands\\Rules\\BrandBusinessRules.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T13:55:41.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BusinessException.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "RelativeDocumentMoniker": "..\\..\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "RelativeToolTip": "..\\..\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Exceptions\\Types\\BusinessException.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAkwA8AAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T09:45:23.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BrandsMessages.cs",
-              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Constants\\BrandsMessages.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\Brands\\Constants\\BrandsMessages.cs",
-              "ToolTip": "C:\\Users\\Etimad\\Desktop\\ReCapOnion\\src\\rentACar\\RentACar\\Application\\Features\\Brands\\Constants\\BrandsMessages.cs",
-              "RelativeToolTip": "Application\\Features\\Brands\\Constants\\BrandsMessages.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T13:55:45.988Z"
+              "WhenOpened": "2024-11-21T11:10:45.006Z",
+              "EditorCaption": ""
             }
           ]
         }

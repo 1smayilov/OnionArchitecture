@@ -32,3 +32,5 @@ C:\Users\Etimad\Desktop\ReCapOnion\src\rentACar\RentACar\Application\bin\Debug\n
 C:\Users\Etimad\Desktop\ReCapOnion\src\rentACar\RentACar\Application\bin\Debug\net8.0\Core.Application.pdb
 C:\Users\Etimad\Desktop\ReCapOnion\src\rentACar\RentACar\Application\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
 C:\Users\Etimad\Desktop\ReCapOnion\src\rentACar\RentACar\Application\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb
+C:\Users\Etimad\Desktop\ReCapOnion\src\rentACar\RentACar\Application\bin\Debug\net8.0\Core.Security.dll
+C:\Users\Etimad\Desktop\ReCapOnion\src\rentACar\RentACar\Application\bin\Debug\net8.0\Core.Security.pdb

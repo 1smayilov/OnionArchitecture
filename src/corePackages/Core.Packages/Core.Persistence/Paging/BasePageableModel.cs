@@ -13,5 +13,5 @@ public abstract class BasePageableModel
     public int Count { get; set; } //  Məsələn, verilənlər bazasında 100 müştəri varsa, Count 100 olacaq.
     public int Pages { get; set; } // Neçə səhifə var
     public bool HasPrevious { get; set; } // Əvvəlki səhifə var?
-    public bool HasNext { get; set; } // Sonrakı səhifə var?
+    public bool HasNext {  get; set; } // Sonrakı səhifə var?
 }
